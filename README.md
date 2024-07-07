@@ -18,6 +18,7 @@ This Python program logs keystrokes and saves them to a file.
    ```bash
    git clone https://github.com/ikramulmolla/keylogger.git
    cd keylogger
+   python3 keylogger.py
 Usage
 Run the program:
 python3 keylogger.py
